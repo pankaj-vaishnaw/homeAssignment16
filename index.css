@@ -1,0 +1,13 @@
+#area{
+    height: 200px;
+    width: 400px;
+
+}
+#textarea-div{
+    display: flex;
+    justify-content: center;
+}
+button{
+    height: 40px;
+    width: 70px;
+}
